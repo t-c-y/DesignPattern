@@ -18,3 +18,8 @@
 ### J2EE 模式
 
 
+### 资料来源
+
+- [设计模式](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+
+
