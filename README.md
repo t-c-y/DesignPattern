@@ -7,6 +7,9 @@
 普通java项目
 
 ## 目录
+设计模式代码位置：src/com/code/example
+
+设计模式文档访问连击如下，位置src/com/doc
 
 ### 创建型模式
 - [工厂模式](/src/com/doc/creationalPatterns/factoryPattern/factory_pattern.md)
