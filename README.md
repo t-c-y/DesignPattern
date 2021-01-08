@@ -14,6 +14,7 @@
 ### 创建型模式
 - [工厂模式](/src/com/doc/creationalPatterns/factoryPattern/factory_pattern.md)
 - [抽象工厂模式](/src/com/doc/creationalPatterns/abstractFactoryPattern/abstract_factory_pattern.md)
+- [单例模式](/src/com/doc/creationalPatterns/singletonPattern/singleton_pattern.md)
 
 ### 结构型模式
 
