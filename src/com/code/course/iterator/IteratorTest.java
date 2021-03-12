@@ -74,6 +74,7 @@ public class IteratorTest {
 
         @Override
         public Student getNext() {
+//            return studentList.remove(0);
             Student s = studentList.iterator().next();
             studentList.remove(s);
             return s;
