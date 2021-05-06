@@ -5,6 +5,7 @@ import java.util.Observer;
 
 /**
  * 观察者模式
+ * @author tongchengyu
  */
 public class ObserverPatternTest {
 
